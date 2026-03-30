@@ -2,11 +2,6 @@
 ---
 
 ## COMPONENT 3: PROJECT REPORT PDF
-
-Below is the content for your project report. Copy this into a Word document, format it properly, and save as PDF.
-
----
-
 # The Open Source Audit
 
 ## A Capstone Project for OSS NGMC Course
